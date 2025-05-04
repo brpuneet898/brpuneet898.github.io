@@ -156,21 +156,29 @@ In my free time, I enjoy exploring new tech, contributing to open-source project
 
 # Publications {.anchor #publications}
 
-- **Search Algorithms: Introductory Guide**, Tech Blog, November 2024. [Link](https://monomousumi.com/search-algorithms-introductory-guide/)
+### Research Articles
+
 - **Understanding polycystic ovary syndrome in light of associated key genes**, Egyptian Journal of Medical Human Genetics, June 2023. [Link](https://jmhg.springeropen.com/articles/10.1186/s43042-023-00418-w)
 - **Insights into microplastics and their effects on Aquatic Organisms**, Journal of the Oriental Institute, March 2023. [Link](https://www.researchgate.net/publication/373840524_INSIGHTS_INTO_MICROPLASTICS_AND_THEIR_EFFECTS_ON_AQUATIC_ORGANISMS)
 - **Fatty Acid Profiling and Composition in Biodiesel and Biofuels**, Volume 1 Issue 4, JLRJS, November 2022. [Link](https://jlrjs.com/wp-content/uploads/2022/08/117.-Puneet-Dr.-Anjali-Priyadarshani.pdf)
 - **A Comprehensive Review on Potential and Prospects of Traditional Medicinal Plants for Management of Coronavirus Disease (COVID-19)**, Vantage Journal of Thematic Analysis, October 2022. [Link](https://ouci.dntb.gov.ua/en/works/7pvne5rl/)
 
+### Articles 
+
+- **Search Algorithms: Introductory Guide**, Tech Blog, November 2024. [Link](https://monomousumi.com/search-algorithms-introductory-guide/)
+
+### Datasets 
+
+- **From Shelf to Sale: Grocery Store Operations Data**, Zenodo, April 2025. [Link](https://doi.org/10.5281/zenodo.15206457)
 
 # Conferences (Posters/Presentations) {.anchor #conferences}
 
-### Equinox-2022: International Conference, December 2023
-- Topic Presented: Covid – 19 and Scope of Medicinal Plants against SARS-CoV2 Virus [Link](http://dx.doi.org/10.13140/RG.2.2.31225.28003)
-- Won the "Best Presenter Award"
-
 ### Shodhranga 2025 (Swanirvahan 5.0): IoCT Bhubaneswar, January 2025 
-- Topic Presented: Implementation of Artificial Intelligence Methodologies Using Search Strategies on Minesweeper Game [Link](http://dx.doi.org/10.13140/RG.2.2.17329.49768)
+- Topic Presented: Implementation of Artificial Intelligence Methodologies Using Search Strategies on Minesweeper Game. [Link](http://dx.doi.org/10.13140/RG.2.2.17329.49768)
+
+### Equinox-2022: International Conference, December 2023
+- Topic Presented: Covid – 19 and Scope of Medicinal Plants against SARS-CoV2 Virus. [Link](http://dx.doi.org/10.13140/RG.2.2.31225.28003)
+- Won the "Best Presenter Award"
 
 # Awards {.anchor #awards}
 
