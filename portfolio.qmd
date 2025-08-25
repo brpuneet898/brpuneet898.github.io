@@ -26,17 +26,17 @@ In my free time, I enjoy exploring new tech, contributing to open-source project
 
 # Academic Qualification {.anchor #academic-qualification}
 
-- **BS in Data Science Applications**, IIT Madras
+- **BS in Data Science Applications**, 2025, IIT Madras - 9 CGPA
 - **Class XII**, Ahlcon International School, Delhi, 2019 – 98.67%
 - **Class X**, Ahlcon International School, Delhi, 2017 – 10 CGPA
 
 # Skills {.anchor #skills}
 
-- **Tools & Software**: Word, Excel, PowerPoint, Access, Microsoft 365
-- **Programming Languages**: Python, Java, C#, JavaScript, DSA, C, Kotlin
-- **Libraries & Frameworks**: Numpy, Pandas, Scikit Learn, Seaborn, Matplotlib, Django, Flask, .Net
-- **Databases**: SQL, Oracle, PostgreSQL
-- **Web and Mobile Development**: HTML, MJML, CSS, JavaScript, Bootstrap, PHP, Android Studio
+- **Tools & Software**: Microsoft 365, Jira, AWS, GCP
+- **Programming Languages**: Python, Java, C#, JavaScript, DSA, C, Kotlin, Typescript, React-Native, Node JS, C++
+- **Libraries & Frameworks**: Numpy, Pandas, Scikit Learn, Seaborn, Matplotlib, Django, Flask, .Net, PyTorch
+- **Databases**: SQL, Oracle, PostgreSQL, Firebase
+- **Web and Mobile Development**: HTML, MJML, CSS, JavaScript, Bootstrap, PHP, Android Studio, Swift
 - **Other**: AWK, Bash, Sed, Regex, PyTest
 
 # Work Experience {.anchor #work-experience}
@@ -65,13 +65,23 @@ In my free time, I enjoy exploring new tech, contributing to open-source project
 - **Cross-functional Collaboration:** Worked closely with development and engineering teams to gather technical details and ensure accuracy in all documentation, contributing to the creation of precise and well-structured content.
 - **Content Optimization:** Ensured clarity, consistency, and accessibility in all technical documents, including troubleshooting guides and FAQs, to improve user experience and facilitate smoother onboarding for new users.
 
-# Internships {.anchor #internships}
+# Teaching Experience {.anchor #teaching-experience}
 
 ### Teaching Assistant & Mentor, IIT Madras, Aug 2024 – Present [^Part-Time,Internship]
 - **Python Programming Mentor:** Lead 40 classes per term, teaching a cohort of 15 students foundational Python concepts, from basic syntax to introductory object-oriented programming, ensuring hands-on learning through exercises and projects.
 - **Linux Systems Teaching Assistant:** Assist in delivering lessons on Linux system commands, focusing on key tools like `sed`, `awk`, and Bash scripting, helping students navigate the command line and automate tasks in Unix-like environments.
 - **BDM Project Mentor:** Guide students in completing various milestones of their Business Data Management (BDM) projects, providing mentorship and support on project management, problem-solving, and technical implementation.
 
+### Teaching Assistant, IIT Madras, Jan 2023 – May 2023 [^Part-Time,Internship]
+- **BDM Course Teaching Assistant:** Conducted weekly classes, assisted students with course material, and provided guidance on projects related to Business Data Management (BDM), ensuring students gained practical insights and met project milestones.
+- **TDS (Tools in Data Science) Teaching Assistant:** Supported the teaching of data science tools, facilitating classes on key concepts and tools used in the field, while helping students understand the practical applications of data analysis, visualization, and machine learning techniques.
+
+### Lead Python Mentor, IIT Madras, Aug 2022 – Sep 2022 [^Part-Time,Internship]
+- **Lead Python Mentor for Pilot Project:** Led the pilot project for IIT Madras' BS program, teaching a cohort of 30 students core Python concepts, including data structures, algorithms, and object-oriented programming, ensuring high-quality learning outcomes.
+- **Mentorship & Instruction:** Provided hands-on mentorship and guidance to students, fostering a strong understanding of Python and programming fundamentals, while conducting interactive sessions, coding challenges, and practical exercises to reinforce learning.
+- **Team Leadership & Oversight:** Managed a team of 3 mentors, overseeing their progress, providing feedback, and ensuring consistency in teaching methods and content delivery, while also addressing student queries and ensuring smooth coordination across the team.
+
+# Internships {.anchor #internships}
 
 ### Data Science Intern, IISc Bangalore, Sep 2023 – Nov 2023 [^Part-Time,Internship]
 - **Data Extraction & EDA:** Extracted data from various web sources using libraries like BeautifulSoup (BS), performed exploratory data analysis (EDA) to uncover trends, patterns, and insights, and prepared the data for further analysis.
@@ -81,10 +91,6 @@ In my free time, I enjoy exploring new tech, contributing to open-source project
 - **Attendance System Automation:** Developed and automated an attendance management system for the institute, streamlining the process of tracking and recording attendance using technology to reduce manual effort and improve accuracy.
 - **Mobile App Development:** Contributed to the development of a mobile app to support the attendance system, ensuring seamless user experience and efficient real-time attendance tracking for students and faculty.
 
-### Teaching Assistant, IIT Madras, Jan 2023 – May 2023 [^Part-Time,Internship]
-- **BDM Course Teaching Assistant:** Conducted weekly classes, assisted students with course material, and provided guidance on projects related to Business Data Management (BDM), ensuring students gained practical insights and met project milestones.
-- **TDS (Tools in Data Science) Teaching Assistant:** Supported the teaching of data science tools, facilitating classes on key concepts and tools used in the field, while helping students understand the practical applications of data analysis, visualization, and machine learning techniques.
-
 ### Jr. Python/Django Associate Intern, Zummit Labs, Oct 2022 – Feb 2023 [^Part-Time,Internship]
 - **Backend Development with Django & Flask:** Gained hands-on experience in backend development, working with Django and Flask to build web applications, enhance server-side functionality, and optimize performance across multiple projects.
 - **Project Development & Learning:** Contributed to the development of 3 key projects, applying learned concepts in Python, Django, and Flask to build scalable and maintainable systems while continuously improving coding skills through practical application.
@@ -93,11 +99,6 @@ In my free time, I enjoy exploring new tech, contributing to open-source project
 - **Python Development:** Worked on Python-based solutions, exploring various libraries and frameworks to enhance the functionality of internal products, focusing on improving performance and adding new features.
 - **PHP Plugin Development:** Developed PHP plugins for WordPress, contributing to the company's internal product offerings by building and optimizing features to improve user experience and extend functionality.
 - **Documentation & Knowledge Sharing:** Documented the development process, including code, implementation steps, and usage guidelines, ensuring clear and comprehensive resources for future reference and team collaboration.
-
-### Lead Python Mentor, IIT Madras, Aug 2022 – Sep 2022 [^Part-Time,Internship]
-- **Lead Python Mentor for Pilot Project:** Led the pilot project for IIT Madras' BS program, teaching a cohort of 30 students core Python concepts, including data structures, algorithms, and object-oriented programming, ensuring high-quality learning outcomes.
-- **Mentorship & Instruction:** Provided hands-on mentorship and guidance to students, fostering a strong understanding of Python and programming fundamentals, while conducting interactive sessions, coding challenges, and practical exercises to reinforce learning.
-- **Team Leadership & Oversight:** Managed a team of 3 mentors, overseeing their progress, providing feedback, and ensuring consistency in teaching methods and content delivery, while also addressing student queries and ensuring smooth coordination across the team.
 
 ### AI Intern, Personifwy, March 2022 – May 2022 [^Part-Time,Internship]
 - **AI & ML Fundamentals:** Learned the basics of artificial intelligence (AI) and machine learning (ML), building simple end-to-end projects, including developing two classification and regression models using Python to solve real-world problems.
@@ -158,26 +159,32 @@ In my free time, I enjoy exploring new tech, contributing to open-source project
 
 ### Research Articles
 
-- **Understanding polycystic ovary syndrome in light of associated key genes**, Egyptian Journal of Medical Human Genetics, June 2023. [Link](https://jmhg.springeropen.com/articles/10.1186/s43042-023-00418-w)
-- **Insights into microplastics and their effects on Aquatic Organisms**, Journal of the Oriental Institute, March 2023. [Link](https://www.researchgate.net/publication/373840524_INSIGHTS_INTO_MICROPLASTICS_AND_THEIR_EFFECTS_ON_AQUATIC_ORGANISMS)
-- **Fatty Acid Profiling and Composition in Biodiesel and Biofuels**, Volume 1 Issue 4, JLRJS, November 2022. [Link](https://jlrjs.com/wp-content/uploads/2022/08/117.-Puneet-Dr.-Anjali-Priyadarshani.pdf)
-- **A Comprehensive Review on Potential and Prospects of Traditional Medicinal Plants for Management of Coronavirus Disease (COVID-19)**, Vantage Journal of Thematic Analysis, October 2022. [Link](https://ouci.dntb.gov.ua/en/works/7pvne5rl/)
+- **Understanding polycystic ovary syndrome in light of associated key genes**, Egyptian Journal of Medical Human Genetics, June 2023. (Authors - Tanisha Bhimwal, Puneet, Prof. Anjali Priyadarshani) [Link](https://jmhg.springeropen.com/articles/10.1186/s43042-023-00418-w)
+- **Insights into microplastics and their effects on Aquatic Organisms**, Journal of the Oriental Institute, March 2023. (Authors - Puneet, Shreya Yadav, Prof. Anjali Priyadarshani) [Link](https://www.researchgate.net/publication/373840524_INSIGHTS_INTO_MICROPLASTICS_AND_THEIR_EFFECTS_ON_AQUATIC_ORGANISMS)
+- **Fatty Acid Profiling and Composition in Biodiesel and Biofuels**, Volume 1 Issue 4, JLRJS, November 2022. (Authors - Puneet, Prof. Anjali Priyadarshani) [Link](https://jlrjs.com/wp-content/uploads/2022/08/117.-Puneet-Dr.-Anjali-Priyadarshani.pdf)
+- **A Comprehensive Review on Potential and Prospects of Traditional Medicinal Plants for Management of Coronavirus Disease (COVID-19)**, Vantage Journal of Thematic Analysis, October 2022. (Authors - Riya Dahiya, Puneet, Prof. Sunil Dhiman, Prof. Anjali Priyadarshani) [Link](https://ouci.dntb.gov.ua/en/works/7pvne5rl/)
+
+### Technical Report
+
+- **CureCue: A Smart Adherence Assistant and Reminder System**, CureCue Software/Technical and Research Documentation, May 2025 (Authors - Puneet, Pranshu Jaiswal, Saransh Saini, Prof. Neelesh S. Upadhye) [Link](http://dx.doi.org/10.13140/RG.2.2.15751.92321)
 
 ### Articles 
 
+- **How AI is Transforming the Entertainment World?**, Tech Blog, June 2025. [Link](https://monomousumi.com/how-ai-is-transforming-the-entertainment-world/)
 - **Search Algorithms: Introductory Guide**, Tech Blog, November 2024. [Link](https://monomousumi.com/search-algorithms-introductory-guide/)
 
 ### Datasets 
 
-- **From Shelf to Sale: Grocery Store Operations Data**, Zenodo, April 2025. [Link](https://doi.org/10.5281/zenodo.15206457)
+- **Progressively Refined Prompt Dataset for Legal Clause Extraction**, Zenodo, May 2025 (Authors - Puneet, Prof. Neelesh S. Upadhye, Radhika Kabade, Sayali Makashir) [Link](http://dx.doi.org/10.5281/zenodo.15355926)
+- **From Shelf to Sale: Grocery Store Operations Data**, Zenodo, April 2025. (Author - Puneet) [Link](https://doi.org/10.5281/zenodo.15206457)
 
 # Conferences (Posters/Presentations) {.anchor #conferences}
 
 ### Shodhranga 2025 (Swanirvahan 5.0): IoCT Bhubaneswar, January 2025 
-- Topic Presented: Implementation of Artificial Intelligence Methodologies Using Search Strategies on Minesweeper Game. [Link](http://dx.doi.org/10.13140/RG.2.2.17329.49768)
+- Topic Presented: Implementation of Artificial Intelligence Methodologies Using Search Strategies on Minesweeper Game. (Author - Puneet) [Link](http://dx.doi.org/10.13140/RG.2.2.17329.49768)
 
 ### Equinox-2022: International Conference, December 2023
-- Topic Presented: Covid – 19 and Scope of Medicinal Plants against SARS-CoV2 Virus. [Link](http://dx.doi.org/10.13140/RG.2.2.31225.28003)
+- Topic Presented: Covid – 19 and Scope of Medicinal Plants against SARS-CoV2 Virus. (Authors - Puneet, Prof. Anjali Priyadarshani) [Link](http://dx.doi.org/10.13140/RG.2.2.31225.28003)
 - Won the "Best Presenter Award"
 
 # Awards {.anchor #awards}
@@ -195,6 +202,7 @@ In my free time, I enjoy exploring new tech, contributing to open-source project
 - [ResearchGate](https://www.researchgate.net/profile/Puneet-3)
 - [Google Scholar](https://scholar.google.com/citations?user=tXpSFlMAAAAJ&hl=en)
 - [Streamlit](https://share.streamlit.io/user/brpuneet898)
+- [ORCID](https://orcid.org/0009-0004-3614-7861)
 
 # Contact Info {.anchor #contact-info}
 
