@@ -67,16 +67,25 @@ In my free time, I enjoy exploring new tech, contributing to open-source project
 
 # Teaching Experience {.anchor #teaching-experience}
 
-### Teaching Assistant & Mentor, IIT Madras, Aug 2024 – Present [^Part-Time,Internship]
+### Teaching Assistant & Content Creator (IIT Madras), July 2025 – Present [^Part-Time,Internship]
+- **Object-Oriented Programming (MA5741) – MTech Industrial Mathematics & Scientific Computing:** Developed the entire 14-week course syllabus, including detailed lecture slides, lab exercises, reading materials, quizzes, and assignments. Collaborated with the senior instructor to deliver engaging and interactive classes focused on OOP concepts and applications.
+- Created comprehensive hands-on lab content and assessments designed to reinforce core OOP principles, enabling students to develop practical programming skills through real-world examples and projects.
+- Provided continuous support during classes, clarifying concepts and assisting students in mastering complex topics, while contributing to course improvement based on student feedback.
+
+### Lab Assistant & Content Creator (IIT Madras), July 2025 – Present [^Part-Time,Internship]
+- **Python Programming Lab (MA5260) – MSc Mathematics:** Designed and developed the entire lab curriculum, including practical assignments and automated grading workflows using nbgrader.
+- Managed lab sessions as the lab assistant, graded submissions, provided detailed feedback, and helped students troubleshoot programming issues to improve their coding proficiency and understanding of Python applications in mathematics.
+
+### Teaching Assistant & Mentor (IIT Madras BS), Aug 2024 – Present [^Part-Time,Internship]
 - **Python Programming Mentor:** Lead 40 classes per term, teaching a cohort of 15 students foundational Python concepts, from basic syntax to introductory object-oriented programming, ensuring hands-on learning through exercises and projects.
 - **Linux Systems Teaching Assistant:** Assist in delivering lessons on Linux system commands, focusing on key tools like `sed`, `awk`, and Bash scripting, helping students navigate the command line and automate tasks in Unix-like environments.
 - **BDM Project Mentor:** Guide students in completing various milestones of their Business Data Management (BDM) projects, providing mentorship and support on project management, problem-solving, and technical implementation.
 
-### Teaching Assistant, IIT Madras, Jan 2023 – May 2023 [^Part-Time,Internship]
+### Teaching Assistant (IIT Madras BS), Jan 2023 – May 2023 [^Part-Time,Internship]
 - **BDM Course Teaching Assistant:** Conducted weekly classes, assisted students with course material, and provided guidance on projects related to Business Data Management (BDM), ensuring students gained practical insights and met project milestones.
 - **TDS (Tools in Data Science) Teaching Assistant:** Supported the teaching of data science tools, facilitating classes on key concepts and tools used in the field, while helping students understand the practical applications of data analysis, visualization, and machine learning techniques.
 
-### Lead Python Mentor, IIT Madras, Aug 2022 – Sep 2022 [^Part-Time,Internship]
+### Lead Python Mentor (IIT Madras BS), Aug 2022 – Sep 2022 [^Part-Time,Internship]
 - **Lead Python Mentor for Pilot Project:** Led the pilot project for IIT Madras' BS program, teaching a cohort of 30 students core Python concepts, including data structures, algorithms, and object-oriented programming, ensuring high-quality learning outcomes.
 - **Mentorship & Instruction:** Provided hands-on mentorship and guidance to students, fostering a strong understanding of Python and programming fundamentals, while conducting interactive sessions, coding challenges, and practical exercises to reinforce learning.
 - **Team Leadership & Oversight:** Managed a team of 3 mentors, overseeing their progress, providing feedback, and ensuring consistency in teaching methods and content delivery, while also addressing student queries and ensuring smooth coordination across the team.
