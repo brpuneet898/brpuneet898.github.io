@@ -41,7 +41,9 @@ In my free time, I enjoy exploring new tech, contributing to open-source project
 
 # Work Experience {.anchor #work-experience}
 
-### Python Developer, LegalBook, July 2023 - Present [^Contractual]
+### Technical Consultant, LegalBook, September 2025 - Present [^Contractual]
+
+### Python Developer, LegalBook, July 2023 - September 2025 [^Contractual]
 - **Python API Development:** Developed and maintained Python-based APIs to support the creation of a contract management tool, ensuring smooth integration with other services and seamless user experiences across the platform.
 - **Research and Development:** Conducted R&D to explore and implement innovative solutions for improving contract management workflows, leveraging emerging technologies to optimize business operations and enhance product capabilities.
 - **Frontend & Backend Integration:** Worked on the frontend development of React.js applications, while also managing the Python backend with Flask and Django, ensuring robust integration between the front and back-end systems for optimal functionality.
@@ -76,10 +78,11 @@ In my free time, I enjoy exploring new tech, contributing to open-source project
 - **Python Programming Lab (MA5260) – MSc Mathematics:** Designed and developed the entire lab curriculum, including practical assignments and automated grading workflows using nbgrader.
 - Managed lab sessions as the lab assistant, graded submissions, provided detailed feedback, and helped students troubleshoot programming issues to improve their coding proficiency and understanding of Python applications in mathematics.
 
-### Teaching Assistant & Mentor (IIT Madras BS), Aug 2024 – Present [^Part-Time,Internship]
-- **Python Programming Mentor:** Lead 40 classes per term, teaching a cohort of 15 students foundational Python concepts, from basic syntax to introductory object-oriented programming, ensuring hands-on learning through exercises and projects.
-- **Linux Systems Teaching Assistant:** Assist in delivering lessons on Linux system commands, focusing on key tools like `sed`, `awk`, and Bash scripting, helping students navigate the command line and automate tasks in Unix-like environments.
-- **BDM Project Mentor:** Guide students in completing various milestones of their Business Data Management (BDM) projects, providing mentorship and support on project management, problem-solving, and technical implementation.
+### Teaching Assistant & Mentor (IIT Madras BS), May 2024 – Present [^Part-Time,Internship]
+- **Introduction to DL Gen AI Teaching Assistant:** (October 2025 - Present)
+- **Linux & System Commands Teaching Assistant & Mentor:** (May 2024 - September 2025) Assist in delivering lessons on Linux system commands, focusing on key tools like `sed`, `awk`, and Bash scripting, helping students navigate the command line and automate tasks in Unix-like environments.
+- **BDM Project Mentor:** (September 2024 - Present) Guide students in completing various milestones of their Business Data Management (BDM) projects, providing mentorship and support on project management, problem-solving, and technical implementation.
+- **Python Programming Teaching Assistant & Mentor:** (May 2024 - January 2025) Lead 40 classes per term, teaching a cohort of 15 students foundational Python concepts, from basic syntax to introductory object-oriented programming, ensuring hands-on learning through exercises and projects.
 
 ### Teaching Assistant (IIT Madras BS), Jan 2023 – May 2023 [^Part-Time,Internship]
 - **BDM Course Teaching Assistant:** Conducted weekly classes, assisted students with course material, and provided guidance on projects related to Business Data Management (BDM), ensuring students gained practical insights and met project milestones.
