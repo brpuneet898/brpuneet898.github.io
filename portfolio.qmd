@@ -41,6 +41,8 @@ In my free time, I enjoy exploring new tech, contributing to open-source project
 
 # Work Experience {.anchor #work-experience}
 
+### Data Scientist, Turing, November 2025 - Present [^Contractual]
+
 ### Technical Consultant, LegalBook, September 2025 - Present [^Contractual]
 
 ### Python Developer, LegalBook, July 2023 - September 2025 [^Contractual]
