@@ -26,31 +26,42 @@ In my free time, I enjoy exploring new tech, contributing to open-source project
 
 # Academic Qualification {.anchor #academic-qualification}
 
+- **MS in AI Applications in Management and Public Policy**, Ongoing, Interdisciplinary Department, IIT Madras - 8.5 CGPA
 - **BS in Data Science Applications**, 2025, IIT Madras - 9 CGPA
 - **Class XII**, Ahlcon International School, Delhi, 2019 – 98.67%
 - **Class X**, Ahlcon International School, Delhi, 2017 – 10 CGPA
 
 # Skills {.anchor #skills}
 
-- **Tools & Software**: Microsoft 365, Jira, AWS, GCP
-- **Programming Languages**: Python, Java, C#, JavaScript, DSA, C, Kotlin, Typescript, React-Native, Node JS, C++
-- **Libraries & Frameworks**: Numpy, Pandas, Scikit Learn, Seaborn, Matplotlib, Django, Flask, .Net, PyTorch
-- **Databases**: SQL, Oracle, PostgreSQL, Firebase
-- **Web and Mobile Development**: HTML, MJML, CSS, JavaScript, Bootstrap, PHP, Android Studio, Swift
-- **Other**: AWK, Bash, Sed, Regex, PyTest
+- **Programming Languages:** Python, Java, C#, JavaScript, TypeScript, C++, C, Kotlin, SQL, PHP, Bash, AWK
+- **Data Structures & Algorithms:** DSA, Problem Solving, Competitive Programming
+- **Frameworks & Libraries:** React Native, Node.js, Django, Flask, .NET, NumPy, Pandas, Scikit-learn, PyTorch, Matplotlib, Seaborn, PyTest
+- **Cloud & DevOps:** AWS, Google Cloud Platform (GCP)
+- **Databases & Backend Services:** PostgreSQL, Oracle Database, Firebase
+- **Web Technologies:** HTML5, CSS3, JavaScript, Bootstrap, MJML
+- **Mobile Development:** Android Studio, React Native, Kotlin, Swift
+- **Tools & Platforms:** Microsoft 365, Jira
+- **Scripting & Automation:** Bash, AWK, Sed, Regular Expressions (Regex)
+- **Software Development:** REST APIs, Object-Oriented Programming (OOP), Software Design & Development
 
 # Work Experience {.anchor #work-experience}
 
 ### Data Scientist, Turing, November 2025 - Present [^Contractual]
+- **Google Gemini Collaboration:** Working closely with the Google Gemini team on data-centric initiatives, contributing to model improvement efforts through high-quality data analysis, evaluation, and feedback processes.
+- **Code Review, Testing & Quality Assurance:** Reviewing legacy codebases, validating test cases, conducting quality checks, and ensuring adherence to engineering and data quality standards across project deliverables.
+- **Multimodal Data Operations:** Managing the creation, annotation, validation, and delivery of image-based and multimodal datasets used to enhance Gemini's performance, accuracy, and real-world applicability.
+- **Delivery Leadership & QC Management:** Leading delivery workflows, coordinating cross-functional contributors, overseeing quality control processes, and ensuring timely execution of project milestones while maintaining high operational standards.
 
 ### Technical Consultant, LegalBook, September 2025 - Present [^Contractual]
+- **Internal Product Development & Management:** Leading the development, maintenance, and enhancement of LegalBook's internal platforms and business-critical products, ensuring scalability, reliability, and alignment with organizational goals.
+- **Legal Technology Solutions:** Designing and delivering specialized tools and automation systems for lawyers and legal teams, streamlining contract workflows, document management, and operational processes.
+- **Stakeholder Collaboration & Product Strategy:** Working closely with leadership, product, and engineering teams to define requirements, manage project execution, prioritize deliverables, and drive successful product outcomes across multiple initiatives.
 
 ### Python Developer, LegalBook, July 2023 - September 2025 [^Contractual]
 - **Python API Development:** Developed and maintained Python-based APIs to support the creation of a contract management tool, ensuring smooth integration with other services and seamless user experiences across the platform.
 - **Research and Development:** Conducted R&D to explore and implement innovative solutions for improving contract management workflows, leveraging emerging technologies to optimize business operations and enhance product capabilities.
 - **Frontend & Backend Integration:** Worked on the frontend development of React.js applications, while also managing the Python backend with Flask and Django, ensuring robust integration between the front and back-end systems for optimal functionality.
 - **AI & Syncfusion Integration:** Integrated AI-powered language models (LLM) and Syncfusion capabilities into existing products to enhance automation, improve document processing, and streamline contract lifecycle management.
-
 
 ### Product Engineer, Metagauss, July 2023 – July 2024 [^Contractual]
 - **PHP Plugin Development & Enhancement:** Continued developing and refining PHP plugins, integrating advanced features, and ensuring compatibility with the latest platform updates to deliver robust and scalable solutions for users.
@@ -71,20 +82,21 @@ In my free time, I enjoy exploring new tech, contributing to open-source project
 
 # Teaching Experience {.anchor #teaching-experience}
 
-### Teaching Assistant & Content Creator (IIT Madras), July 2025 – Present [^Part-Time,Internship] - [Link](https://github.com/brpuneet898/mtech-oops-course-material)
+### Teaching Assistant & Mentor (IIT Madras BS), May 2024 – May 2026 [^Part-Time,Internship]
+- **Deep Learning Practice Teaching Assistant:** (February 2026 - May 2026) Reviewed and assessed student implementations of deep learning models, providing technical guidance and code-level feedback. Conducted weekly practical sessions demonstrating real-world applications of PyTorch across Natural Language Processing (NLP), Computer Vision, multimodal AI systems, and Speech Technologies. Assisted instructors in developing quizzes, assignments, and practical assessments while helping students bridge theoretical concepts with hands-on model development.
+- **Introduction to DL Gen AI Teaching Assistant:** (October 2025 - January 2026) Reviewed and finalized course content in collaboration with instructors, ensuring technical accuracy and alignment with learning objectives. Designed graded and practice assignments, prepared programming-based assessments, and contributed to quiz and final examination question development. Conducted weekly live sessions for cohorts of 100–200 students, clarifying concepts in deep learning, generative AI, and modern AI applications. Evaluated student code submissions, provided detailed feedback, and supported learners in debugging and improving implementation quality.
+- **Linux & System Commands Teaching Assistant & Mentor:** (May 2024 - September 2025) Assist in delivering lessons on Linux system commands, focusing on key tools like `sed`, `awk`, and Bash scripting, helping students navigate the command line and automate tasks in Unix-like environments.
+- **BDM Project Mentor:** (September 2024 - Present) Guide students in completing various milestones of their Business Data Management (BDM) projects, providing mentorship and support on project management, problem-solving, and technical implementation.
+- **Python Programming Teaching Assistant & Mentor:** (May 2024 - January 2025) Lead 40 classes per term, teaching a cohort of 15 students foundational Python concepts, from basic syntax to introductory object-oriented programming, ensuring hands-on learning through exercises and projects.
+
+### Teaching Assistant & Content Creator (IIT Madras), July 2025 – Dec 2025 [^Part-Time,Internship] - [Link](https://github.com/brpuneet898/mtech-oops-course-material)
 - **Object-Oriented Programming (MA5741) – MTech Industrial Mathematics & Scientific Computing:** Developed the entire 14-week course syllabus, including detailed lecture slides, lab exercises, reading materials, quizzes, and assignments. Collaborated with the senior instructor to deliver engaging and interactive classes focused on OOP concepts and applications.
 - Created comprehensive hands-on lab content and assessments designed to reinforce core OOP principles, enabling students to develop practical programming skills through real-world examples and projects.
 - Provided continuous support during classes, clarifying concepts and assisting students in mastering complex topics, while contributing to course improvement based on student feedback.
 
-### Lab Assistant & Content Creator (IIT Madras), July 2025 – Present [^Part-Time,Internship] - [Link](https://github.com/brpuneet898/msc-maths-python-programming-lab)
+### Lab Assistant & Content Creator (IIT Madras), July 2025 – Dec 2025 [^Part-Time,Internship] - [Link](https://github.com/brpuneet898/msc-maths-python-programming-lab)
 - **Python Programming Lab (MA5260) – MSc Mathematics:** Designed and developed the entire lab curriculum, including practical assignments and automated grading workflows using nbgrader.
 - Managed lab sessions as the lab assistant, graded submissions, provided detailed feedback, and helped students troubleshoot programming issues to improve their coding proficiency and understanding of Python applications in mathematics.
-
-### Teaching Assistant & Mentor (IIT Madras BS), May 2024 – Present [^Part-Time,Internship]
-- **Introduction to DL Gen AI Teaching Assistant:** (October 2025 - Present)
-- **Linux & System Commands Teaching Assistant & Mentor:** (May 2024 - September 2025) Assist in delivering lessons on Linux system commands, focusing on key tools like `sed`, `awk`, and Bash scripting, helping students navigate the command line and automate tasks in Unix-like environments.
-- **BDM Project Mentor:** (September 2024 - Present) Guide students in completing various milestones of their Business Data Management (BDM) projects, providing mentorship and support on project management, problem-solving, and technical implementation.
-- **Python Programming Teaching Assistant & Mentor:** (May 2024 - January 2025) Lead 40 classes per term, teaching a cohort of 15 students foundational Python concepts, from basic syntax to introductory object-oriented programming, ensuring hands-on learning through exercises and projects.
 
 ### Teaching Assistant (IIT Madras BS), Jan 2023 – May 2023 [^Part-Time,Internship]
 - **BDM Course Teaching Assistant:** Conducted weekly classes, assisted students with course material, and provided guidance on projects related to Business Data Management (BDM), ensuring students gained practical insights and met project milestones.
@@ -123,6 +135,20 @@ In my free time, I enjoy exploring new tech, contributing to open-source project
 ## Personal
 
 ### Web Apps, AI Agents, Core DS Projects
+
+- **FedEx Supply Chain Analytics, Simulation & Optimization Platform** [Link](https://github.com/brpuneet898/fedex-supply-chain)
+  <ul>
+    <li>Analyzed 180K+ logistics and supply chain records, performing data cleaning, feature engineering, and exploratory analysis to uncover operational insights and performance trends.</li>
+    <li>Built Monte Carlo simulation and sensitivity analysis models to assess delivery risk, forecast operational outcomes, and evaluate supply chain resilience under uncertainty.</li>
+    <li>Implemented and documented MDP/Reinforcement Learning-inspired optimization approaches for logistics planning, profit optimization, and data-driven supply chain decision making.</li>
+  </ul>
+
+- **PCOSight: End-to-End AI Healthcare Screening and Recommendation Platform** [Link](https://github.com/brpuneet898/PCOSight)
+  <ul>
+    <li>Developed an AI-driven PCOS risk prediction system combining machine learning and deep learning models to analyze clinical, lifestyle, and hormonal data for early health screening and decision support.</li>
+    <li>Engineered a full-stack healthcare platform using Flask, SQLite, Tailwind CSS, and Groq APIs, featuring explainable predictions, personalized recommendations, secure user authentication, and research-driven insights.</li>
+    <li>Integrated an LLM-powered healthcare chatbot using Llama 3 models to deliver conversational support, symptom awareness, lifestyle guidance, and reproductive health education.</li>
+  </ul>
 
 - **Causal Longevity Insights in Breast Cancer Patients Dashboard** [Link](https://huggingface.co/spaces/brpuneet898/canbrs-dashboard)
   <ul> 
