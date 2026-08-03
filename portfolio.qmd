@@ -16,12 +16,7 @@ format: html
 # Introduction {.anchor #introduction}
 
 <img src="images/Self-Photo.JPG" width="150" align="left" style="margin-right: 15px; margin-bottom: 10px; display: inline-block;" />
-Hi, I'm Puneet, and I am passionate about data science and technology. Over the years, I have honed my skills in a variety of areas, including programming, data analysis, machine learning, and web development. I have a strong foundation in both theoretical concepts and practical applications, which allows me to solve real-world problems with creative solutions.
-
-
-I believe in lifelong learning and am always seeking to improve my skill set by keeping up with the latest trends in technology. Whether it's programming in Python, building web applications, or working with data, I am excited to take on new challenges and grow as a professional. With a keen eye for detail and a commitment to excellence, I aim to make meaningful contributions to every project I work on.
-
-In my free time, I enjoy exploring new tech, contributing to open-source projects, and engaging in problem-solving challenges. I am also an advocate for collaboration and love working in teams to achieve shared goals. My journey in the tech industry is just beginning, and I am eager to see where my skills and passions will take me.
+I’m Puneet, a Research Scholar at IIT Madras, data scientist, AI practitioner, and technology consultant with nearly five years of experience across artificial intelligence, software engineering, product development, and technical strategy. My work focuses on building AI-powered platforms, intelligent automation systems, and data-driven solutions for healthcare, supply chains, and enterprise operations. I have authored multiple research publications, developed and released research datasets, and presented my work at academic conferences. I have also contributed to IIT Madras as a teaching assistant, mentor, and course-content creator. My goal is to translate advanced research into scalable, practical, and high-impact technologies.
 
 
 # Academic Qualification {.anchor #academic-qualification}
@@ -287,10 +282,16 @@ In my free time, I enjoy exploring new tech, contributing to open-source project
 
 ### Research Articles
 
+- **ClauseMiner: Prompt-engineered large language model for accurate, scalable legal clause extraction**, Engineering Applications of Artificial Intelligence, October 2026. (Authors - Puneet, Prof. Neelesh S. Upadhye) [Link](https://www.sciencedirect.com/science/article/pii/S0952197626016842)
+- **Mahakumbh: tracing the transformation of the elixir of immortality to tainted water**, International Journal of Water Resources Development, July 2026. (Authors - Puneet, Prof. Anjali Priyadarshani) [Link](https://www.tandfonline.com/doi/full/10.1080/07900627.2026.2695071)
 - **Understanding polycystic ovary syndrome in light of associated key genes**, Egyptian Journal of Medical Human Genetics, June 2023. (Authors - Tanisha Bhimwal, Puneet, Prof. Anjali Priyadarshani) [Link](https://jmhg.springeropen.com/articles/10.1186/s43042-023-00418-w)
 - **Insights into microplastics and their effects on Aquatic Organisms**, Journal of the Oriental Institute, March 2023. (Authors - Puneet, Shreya Yadav, Prof. Anjali Priyadarshani) [Link](https://www.researchgate.net/publication/373840524_INSIGHTS_INTO_MICROPLASTICS_AND_THEIR_EFFECTS_ON_AQUATIC_ORGANISMS)
 - **Fatty Acid Profiling and Composition in Biodiesel and Biofuels**, Volume 1 Issue 4, JLRJS, November 2022. (Authors - Puneet, Prof. Anjali Priyadarshani) [Link](https://jlrjs.com/wp-content/uploads/2022/08/117.-Puneet-Dr.-Anjali-Priyadarshani.pdf)
 - **A Comprehensive Review on Potential and Prospects of Traditional Medicinal Plants for Management of Coronavirus Disease (COVID-19)**, Vantage Journal of Thematic Analysis, October 2022. (Authors - Riya Dahiya, Puneet, Prof. Sunil Dhiman, Prof. Anjali Priyadarshani) [Link](https://ouci.dntb.gov.ua/en/works/7pvne5rl/)
+
+### Preprints
+
+- **ClauseMiner: Prompt-Engineered LLaMA-70B for Accurate, Scalable Legal Clause Extraction**, SSRN, September 2025. (Authors - Puneet, Prof. Neelesh S. Upadhye) [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5507977)
 
 ### Technical Report
 
@@ -306,7 +307,7 @@ In my free time, I enjoy exploring new tech, contributing to open-source project
 - **Progressively Refined Prompt Dataset for Legal Clause Extraction**, Zenodo, May 2025 (Authors - Puneet, Prof. Neelesh S. Upadhye, Radhika Kabade, Sayali Makashir) [Link](http://dx.doi.org/10.5281/zenodo.15355926)
 - **From Shelf to Sale: Grocery Store Operations Data**, Zenodo, April 2025. (Author - Puneet) [Link](https://doi.org/10.5281/zenodo.15206457)
 
-# Conferences (Posters/Presentations) {.anchor #conferences}
+# Conferences {.anchor #conferences}
 
 ### Shodhranga 2025 (Swanirvahan 5.0): IoCT Bhubaneswar, January 2025 
 - Topic Presented: Implementation of Artificial Intelligence Methodologies Using Search Strategies on Minesweeper Game. (Author - Puneet) [Link](http://dx.doi.org/10.13140/RG.2.2.17329.49768)
@@ -314,6 +315,13 @@ In my free time, I enjoy exploring new tech, contributing to open-source project
 ### Equinox-2022: International Conference, December 2023
 - Topic Presented: Covid – 19 and Scope of Medicinal Plants against SARS-CoV2 Virus. (Authors - Puneet, Prof. Anjali Priyadarshani) [Link](http://dx.doi.org/10.13140/RG.2.2.31225.28003)
 - Won the "Best Presenter Award"
+
+# Academic Service & Peer Review {.anchor #academic-service-peer-review}
+
+## Journal Reviewer
+
+- Journal of Computational Law and Legal Technology (Bon View Publishing), Reviewed 1 Manuscript | July 2026 - Present
+- Scientific Reports (Springer Nature), Reviewed 3 Manuscripts | July 2026 - Present
 
 # Awards {.anchor #awards}
 
