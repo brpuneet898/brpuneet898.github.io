@@ -309,6 +309,9 @@ I’m Puneet, a Research Scholar at IIT Madras, data scientist, AI practitioner,
 
 # Conferences {.anchor #conferences}
 
+### International Conference on Statistical Learning, Data Science & Generative AI (ICSL-DSGA), Sunway University, Malaysia, August 2026
+- Paper Presented: GaLM-SEBI: Graph-Based Legal Intelligence for SEBI Insider-Trading Case Analysis. (Authors - Puneet, Prof. Neelesh S. Upadhye) [Link](https://ieeexplore.ieee.org/abstract/document/11736637/)
+
 ### Shodhranga 2025 (Swanirvahan 5.0): IoCT Bhubaneswar, January 2025 
 - Topic Presented: Implementation of Artificial Intelligence Methodologies Using Search Strategies on Minesweeper Game. (Author - Puneet) [Link](http://dx.doi.org/10.13140/RG.2.2.17329.49768)
 
@@ -321,7 +324,7 @@ I’m Puneet, a Research Scholar at IIT Madras, data scientist, AI practitioner,
 ## Journal Reviewer
 
 - Journal of Computational Law and Legal Technology (Bon View Publishing), Reviewed 1 Manuscript | July 2026 - Present
-- Scientific Reports (Springer Nature), Reviewed 3 Manuscripts | July 2026 - Present
+- Scientific Reports (Springer Nature), Reviewed 4 Manuscripts | July 2026 - Present
 
 # Awards {.anchor #awards}
 
