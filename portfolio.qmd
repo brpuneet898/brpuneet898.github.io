@@ -41,11 +41,10 @@ I’m Puneet, a Research Scholar at IIT Madras, data scientist, AI practitioner,
 
 # Work Experience {.anchor #work-experience}
 
-### Data Scientist, Turing, November 2025 - Present [^Contractual]
-- **Google Gemini Collaboration:** Working closely with the Google Gemini team on data-centric initiatives, contributing to model improvement efforts through high-quality data analysis, evaluation, and feedback processes.
-- **Code Review, Testing & Quality Assurance:** Reviewing legacy codebases, validating test cases, conducting quality checks, and ensuring adherence to engineering and data quality standards across project deliverables.
-- **Multimodal Data Operations:** Managing the creation, annotation, validation, and delivery of image-based and multimodal datasets used to enhance Gemini's performance, accuracy, and real-world applicability.
-- **Delivery Leadership & QC Management:** Leading delivery workflows, coordinating cross-functional contributors, overseeing quality control processes, and ensuring timely execution of project milestones while maintaining high operational standards.
+### AI/ML Engineer, RKG Global Solutions, November 2025 - Present [^Contractual]
+- **AI Model Training, Evaluation & Deployment** — Develop, train, and deploy AI models, with hands-on work in supervised fine-tuning (SFT) and reinforcement learning from human feedback (RLHF). Use model analytics and error analysis to assess output quality, identify recurring failure patterns, and guide successive training iterations. Evaluate model behavior before deployment to verify that outputs meet the requirements of the workflows they support.
+- **Predictive Modeling & LLM Fine-Tuning** — Build machine learning models for business prediction tasks and fine-tune large language models (LLMs) for domain-specific workflows. Compare model configurations and use validation results to improve predictive accuracy. Evaluate fine-tuned LLMs against task-specific examples to identify where responses fall short and guide further refinement of model performance.
+- **AI Platform Development & Multi-Agent Orchestration** — Build Marketron and MediOps AI from the ground up, contributing to platform architecture, workflow design, and model integration. Design multi-agent workflows that divide complex tasks among specialized agents, coordinate handoffs and tool calls, and combine intermediate outputs into a final result. Integrate these workflows into the platforms so users can run multi-step tasks through a single interface.
 
 ### Technical Consultant, LegalBook, September 2025 - Present [^Contractual]
 - **Internal Product Development & Management:** Leading the development, maintenance, and enhancement of LegalBook's internal platforms and business-critical products, ensuring scalability, reliability, and alignment with organizational goals.
