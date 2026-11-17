@@ -302,8 +302,9 @@ I’m Puneet, a Research Scholar at IIT Madras, data scientist, AI practitioner,
 - **How AI is Transforming the Entertainment World?**, Tech Blog, June 2025. [Link](https://monomousumi.com/how-ai-is-transforming-the-entertainment-world/)
 - **Search Algorithms: Introductory Guide**, Tech Blog, November 2024. [Link](https://monomousumi.com/search-algorithms-introductory-guide/)
 
-### Datasets 
+### Datasets
 
+- **RoadAb-India 2026: A Multi-Layer Road Abnormality Dataset with Object Annotations, Severity Labels, and Geospatial Context**, Zenodo, July 2026 (Authors - Puneet, Saransh Saini, Prathamesh Pise, Dr. Sathishumar Veerappampalayam Easwaramoorthy, Prof. Neelesh S. Upadhye) [Link](https://doi.org/10.5281/zenodo.21701636)
 - **Progressively Refined Prompt Dataset for Legal Clause Extraction**, Zenodo, May 2025 (Authors - Puneet, Prof. Neelesh S. Upadhye, Radhika Kabade, Sayali Makashir) [Link](http://dx.doi.org/10.5281/zenodo.15355926)
 - **From Shelf to Sale: Grocery Store Operations Data**, Zenodo, April 2025. (Author - Puneet) [Link](https://doi.org/10.5281/zenodo.15206457)
 
